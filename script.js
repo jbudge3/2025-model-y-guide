@@ -60,8 +60,8 @@ function renderGuideSections() {
 
   guideSections.innerHTML = guideData.map((section, index) => {
     const isFirst = index === 0;
-    const expanded = isFirst ? 'true' : 'false';
-    const expandedClass = isFirst ? 'expanded' : '';
+    const expanded = 'false'; // All sections start closed
+    const expandedClass = ''; // No expanded class by default
     
     // Parse markdown for details (using marked.js)
     const detailsHtml = marked.parse(section.details || '');
