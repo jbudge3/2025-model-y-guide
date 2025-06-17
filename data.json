@@ -1,0 +1,252 @@
+[
+    {
+    "title": "Getting Started & Delivery Day",
+    "summary": "Your Tesla delivery day is exciting\u2014make sure it goes smoothly. Come prepared with necessary documents (driver\u2019s license, insurance) and be ready to inspect your Model Y thoroughly. Confirm the VIN, paint, interior, and included items match your order. If you find any issues, document them and notify Tesla immediately. Setting up basics like seat position and phone key on day one will get you on the road confidently.",
+    "details": "### Delivery Day Preparation\nBefore heading to your delivery appointment, ensure you\u2019ve uploaded insurance and made final payment via the Tesla app (if financing, have those documents ready). Bring a valid driver\u2019s license and proof of insurance. Tesla no longer includes the Universal Mobile Connector charging cable by default, so check if you purchased one or need to order it separately ￼. \n\n### Inspection Checklist\nTake time to inspect the car in person:\n- Exterior: Look for paint defects, dents, or panel gaps. Check all glass (windows, windshield, roof) for cracks or alignment. Ensure wheels and tires are pristine (no curb rash from transport) and all trim is attached properly.\n- Interior: Check seat upholstery, dashboard, and trim for any scratches or marks. Test the touchscreen, all lights, horn, wipers, and climate controls. Verify both key cards work and the SAE J1772 charging adapter is included (for non-Tesla charging stations). \n- Functional Tests: Open and close all doors, trunk, and frunk to ensure they seal and latch correctly. Test the backup camera and mirrors. If possible, plug into a nearby Supercharger to make sure charging starts normally.\n\nIf there are minor issues (e.g. paint scuff or misaligned trim), take photos and note them with a Tesla representative before leaving ￼. Significant problems can be a reason to refuse delivery (which may require rescheduling), but minor ones are usually fixed later via a service appointment. \n\n### Initial Setup\nOnce you accept the car, adjust your driver\u2019s seat, steering wheel, and mirrors. The touchscreen will prompt you to create a Driver Profile\u2014save your settings under your name. Pair your smartphone as a Bluetooth key via the Tesla app (tap Phone Key setup). This lets your phone automatically unlock the car and enables features like Walk-Away Lock. Also, familiarize yourself with basic controls: the gear selector (stalk on right side of steering column), turn signals (left stalk), and how to open the charging port (press the port door or tap the bolt icon on screen). \n\nBefore driving off, set your charging limit (in the Charging menu) to around 80\u201390% for daily use to maximize battery longevity ￼. Don\u2019t forget to check tire pressures (the car can display them) and adjust if needed. Now you\u2019re ready to enjoy your new Model Y!",
+    "resources": [
+    {
+    "type": "article",
+    "label": "Tesla Delivery Checklist (2024) \u2013 TesBros Blog",
+    "source": "https://tesbros.com/a/blog/tesla-delivery-checklist",
+    "why_useful": "Provides a comprehensive list of items to inspect and prepare on your Tesla delivery day."
+    }
+    ]
+    },
+    {
+    "title": "Mobile App Setup & Profiles",
+    "summary": "The Tesla mobile app is an essential part of owning a Model Y. It lets you use your phone as a key, check your car\u2019s status remotely, and customize settings. First-time setup involves pairing your phone to the car and creating a driver profile for your preferences. Multiple drivers can have profiles, making it easy to share the car. Taking a few minutes to configure these will personalize your driving experience from day one.",
+    "details": "### Tesla App Basics\nDownload the Tesla app on your smartphone and log in with your Tesla account (the same one used to order the car). On delivery day, your car should automatically appear in the app once Tesla assigns it to you. Use the app to accept delivery if required. Then, set up your Phone Key: while inside the car with a key card, open the app and follow Set Up Phone Key prompts ￼. This uses Bluetooth to allow your phone to unlock and start the Model Y without a key card. Keep the backup key cards in your wallet or somewhere safe \u2013 you\u2019ll need them if your phone battery dies or if valet parking.\n\nThrough the app you can also:\n- Monitor & Control: Check battery level, start/stop charging, see tire pressures, and lock/unlock or vent windows remotely.\n- Climate & Charging: Preheat or cool the cabin before driving, and even turn on seat heaters. Schedule charging to off-peak hours if you have time-of-use electricity rates.\n- Location & Security: Track your car\u2019s location, flash the lights or honk to find it, and enable Sentry Mode (security alarm and camera monitoring) remotely.\n\n### Driver Profiles\nOn the touchscreen, tap the avatar icon to create a Driver Profile. Save your seat, mirror, and steering wheel positions, along with preferences for climate, driving, and more. The first time you adjust the seat, the car will prompt you to create a profile. Give it a name (e.g. \u201cAlex\u201d or \u201cDriver 1\u201d). Once saved, your Model Y will remember these settings. You can link your profile to your phone key so the car auto-selects your profile when you unlock it ￼ ￼. To do this, ensure your profile is active, then go to Controls > Locks > Keys and tap your phone key to assign it.\n\nIf multiple people will drive, use the app to add them as drivers (they’ll need their own Tesla account). In the app, go to Security & Drivers, then send an invite. Once they accept, they can set up a profile in the car too. Each profile can also enable Easy Entry, which moves the seat and steering wheel for easier exit/entry when parked. The Model Y supports up to 10 driver profiles, all synced to the cloud so settings can carry over to other Teslas you drive ￼ ￼. \n\n### Personalization\nGive your car a name (tap Controls > Software to edit the name). This will appear in the app and on your Tesla account. Explore other profile-linked settings like navigation favorites, radio presets, and climate preferences. They will all save to your driver profile automatically. With profiles set, your Model Y will welcome you by adjusting everything to your preferences as soon as you get in 😃.",
+    "resources": [
+    {
+    "type": "official_doc",
+    "label": "Tesla Model Y Owner\u2019s Manual \u2013 Driver Profiles",
+    "source": "https://www.tesla.com/ownersmanual/modely/en_us/GUID-A2D0403E-3DAC-4695-A4E6-DC875F4DEDC3.html",
+    "why_useful": "Explains how to create and use driver profiles, link keys, and share access with other drivers."
+    },
+    {
+    "type": "article",
+    "label": "Tesla Driver Profiles Guide \u2013 Tesla Outfitters (Oct 2024)",
+    "source": "https://tesla-outfitters.com/blogs/tesla-infos/tesla-driver-profiles",
+    "why_useful": "Walks through setting up profiles, the Easy Entry feature, and advantages of cloud-synced profiles."
+    }
+    ]
+    },
+    {
+    "title": "Charging 101 (Home, Supercharging, Route Planning)",
+    "summary": "Charging your Tesla becomes second nature once you know your options. At home, most owners charge overnight so the car is ready each morning. On the road, the extensive Tesla Supercharger network makes long trips easy\u2014just plug in and go. It\u2019s also important to plan routes with charging in mind (your Tesla\u2019s navigation will help). This section covers how to charge at home, use Superchargers, and optimize charging for battery health and travel.",
+    "details": "### Home Charging\nCharging at home is convenient and cost-effective. The Model Y Long Range AWD has an EPA range of about 311 miles on a full charge ￼, but you\u2019ll typically charge nightly to around 80\u201390%. All new Teslas can use a standard 120V outlet (via the Mobile Connector) for ~3-4 miles of range per hour, or a 240V Level 2 charger for a much faster ~30 miles of range per hour. Many owners install a Tesla Wall Connector or a 240V outlet (NEMA 14-50) in their garage or driveway for Level 2 charging. This setup can charge your Model Y from near-empty to full in about 7-8 hours ￼ ￼.\n\nUsing the Tesla mobile app or in-car controls, you can schedule home charging to start at off-peak electricity times to save money. Set your charge limit in the app \u2013 for daily use, 90% is recommended ￼ (100% is fine for occasional long trips). It\u2019s best to keep the car plugged in when parked for extended periods, and Tesla advises not letting the battery fall below ~20% regularly ￼.\n\n### Supercharging\nTesla\u2019s Supercharger network allows for rapid charging on road trips. The Model Y can add roughly 200 miles in 15 minutes under ideal conditions at a V3 Supercharger ￼. Navigation will automatically precondition (heat) the battery when approaching a Supercharger to ensure fast charging ￼. To charge, simply pull into a stall and plug in \u2013 no credit card or app needed at the station. The car communicates with the Supercharger and bills the credit card on your Tesla account. You can monitor the charging progress on the car\u2019s screen or your phone. Superchargers are strategically placed along major travel routes and near amenities (restaurants, shopping) for convenience.\n\nYour Model Y\u2019s navigation will incorporate charging stops into trip routes automatically. Enter a destination and, if it\u2019s farther than your current range, the car will route you through appropriate Superchargers. It also estimates how long to charge at each stop. Typically, it\u2019s quickest to charge until about 60\u201380% full, then drive to the next charger, since charging slows down above 80%. (For example, Tesla notes that charging to 80% often takes under 20 minutes ￼.)\n\n### Public & Destination Charging\nBeyond Superchargers, your Tesla can charge at thousands of public stations. Level 2 AC stations (like ChargePoint, EVgo, etc.) use the included J1772 adapter \u2013 just plug the station\u2019s handle into the adapter and then into your car. These are great for topping up at hotels, workplaces, or parking garages (typically 20\u201330 miles of range per hour).\n\nFor DC fast charging at non-Tesla stations (using CCS Combo connectors in North America), Tesla sells a CCS adapter that enables Model Y to use those stations. If you plan to road-trip in areas without Superchargers, the CCS adapter can be a useful accessory. Note that many EV networks are integrating Tesla\u2019s NACS plug standard in the coming years, meaning more places will have native Tesla-compatible plugs.\n\n### Trip Planning Tips\nUse the Energy screen on the touchscreen to monitor consumption on long trips. Driving 75+ mph or using heat in winter will increase energy use, so plan a buffer. The in-car Trip Planner will adjust your route or advise you to slow down if it calculates you might arrive at the next charger with less than ~5% battery.\n\nFor extra assurance, apps like A Better Route Planner (ABRP) let you plan detailed EV trips, factoring in weather and payload. But for most cases, the Tesla\u2019s built-in planner is sufficient. You can also find locations of all Superchargers (and other chargers) on the in-car map or using the PlugShare app ￼. Happy charging!",
+    "resources": [
+    {
+    "type": "official_doc",
+    "label": "Tesla Home Charging Support",
+    "source": "https://www.tesla.com/support/home-charging-installation",
+    "why_useful": "Explains home charging options, recommended equipment, and installation guidance."
+    },
+    {
+    "type": "article",
+    "label": "Tesla Model Y Charging Guide (2024) \u2013 Zecar",
+    "source": "https://zecar.com/resources/tesla-model-y-charging-guide",
+    "why_useful": "Provides details on charging times, recommended charge levels, and costs for the Model Y."
+    },
+    {
+    "type": "article",
+    "label": "2025 Model Y Review \u2013 Kelley Blue Book (Charging & Range)",
+    "source": "https://www.kbb.com/tesla/model-y/2025/",
+    "why_useful": "Highlights the Model Y Long Range’s EPA range and notes how quickly it can charge on a Supercharger."
+    }
+    ]
+    },
+    {
+    "title": "Battery Health & Cold-Weather Tips",
+    "summary": "The high-voltage battery is your Tesla\u2019s lifeblood. Taking care of it will ensure long life and optimal range. Fortunately, maintaining battery health is simple: avoid extreme states of charge when possible and keep the car plugged in during idle periods. Cold weather can temporarily reduce range and charging speed, but there are strategies to mitigate this. By following a few best practices, you\u2019ll get the most out of your Model Y\u2019s battery in all seasons.",
+    "details": "### Everyday Battery Care\nTesla batteries (Lithium-ion) prefer to stay in the mid-range of charge. Tesla\u2019s guidance is to limit daily charging to ~90% for Long Range batteries to minimize degradation ￼. It\u2019s also healthy to avoid letting the battery drop to near 0%\u2014try to recharge once you hit 10-20% at the lowest. If you need the full range for a trip, charging to 100% occasionally is fine, but try not to leave the car at 100% for long durations (start driving soon after reaching full). The Model Y\u2019s Battery Management System will protect itself, but these habits maximize longevity.\n\nWhenever possible, keep your Tesla plugged in while parked, especially overnight. The car will stop charging automatically at the set limit and can draw power from the wall to run background tasks or battery heating. Tesla specifically recommends plugging in during very cold weather and maintaining a charge of at least 20% charge buffer ￼. If you\u2019re leaving the car unused for an extended time (weeks), leave it around 50\u201360% and plugged in; the car will top itself up as needed to counter vampire drain.\n\n### Cold-Weather Driving\nIn winter, you may notice reduced range and performance until the battery warms up. The Model Y has a heat pump and battery heater to help with this. Preconditioning (warming the battery) is key in cold weather. If you\u2019re heading out, turn on climate (via app or car schedule) ~15-30 minutes early to warm the cabin and battery. Also, if navigating to a Supercharger, the car will automatically preheat the battery on the way (navigate 30-45 minutes in advance for best results) ￼. A snowflake icon on the screen indicates the battery is too cold to access all its energy; it disappears once warmed.\n\nExpect slower charging in frigid temperatures \u2013 both at home and at Superchargers \u2013 until the battery heats up. Plan a bit of extra time for charging on very cold trips. While driving, regenerative braking might be limited (dashed lines on the power meter) when the battery is cold, so anticipate longer stopping distances and use your brakes more until regen returns.\n\nTo improve winter range, use seat heaters and steering wheel heat to stay warm, which consume less energy than blasting the cabin heater. The Model Y\u2019s efficient heat pump still uses some battery power for cabin heat, so using the scheduled departure feature to preheat on wall power can preserve range. It\u2019s normal to see higher energy consumption in winter \u2013 don\u2019t be alarmed.\n\n### Snow & Ice\nThe Model Y is All-Wheel Drive, which helps in snow traction. However, it comes with all-season tires by default; in regions with heavy snow or ice, consider installing winter tires for better grip. Use Wiper Defrost and Mirror Auto-Fold features wisely: you can disable auto-folding mirrors in ice to prevent them from freezing in a closed position.\n\nIf your door handles are frozen shut, a firm bump with the edge of your hand can break the ice. Tesla also has a Door Handle Defrost feature in the app\u2019s defrost menu to help. For frozen windows, activating defrost for a few minutes helps free them up.\n\nLastly, don\u2019t worry if you see what looks like white vapor or \"smoke\" from the front of the car while fast-charging on a cold day \u2013 it\u2019s just the heat pump releasing warm moisture, which is normal ￼. With these practices, you\u2019ll find your Model Y to be a confident companion year-round, even when winter throws its worst at you.",
+    "resources": [
+    {
+    "type": "official_doc",
+    "label": "Tesla Cold Weather Best Practices",
+    "source": "https://www.tesla.com/support/cold-weather-best-practices",
+    "why_useful": "Official guidance from Tesla on maximizing range and performance in cold conditions."
+    },
+    {
+    "type": "article",
+    "label": "NPR \u2013 Teslas Struggling to Charge in Chicago Cold (Jan 2024)",
+    "source": "https://www.npr.org/2024/01/16/1224913698/teslas-chicago-charging-extreme-cold",
+    "why_useful": "News story that includes Tesla\u2019s recommendations for charging and operating in extreme cold weather."
+    },
+    {
+    "type": "article",
+    "label": "CleanTechnica \u2013 Winter Driving Tips for Tesla",
+    "source": "https://cleantechnica.com/2024/01/05/tesla-model-y-winter-driving-tips/",
+    "why_useful": "Offers a list of practical tips from owners for improving range and comfort during winter trips."
+    }
+    ]
+    },
+    {
+    "title": "Software, UI Shortcuts & Easter Eggs",
+    "summary": "Tesla\u2019s software is a highlight of the ownership experience. The Model Y\u2019s infotainment system gets frequent over-the-air updates that add features and refine the interface. It\u2019s useful to learn a few handy shortcuts and know where to find fun \"Easter eggs\" hidden in the car. This section will help you navigate the touchscreen UI more efficiently and enjoy Tesla\u2019s quirky software surprises (like the famous light show and more).",
+    "details": "### Touchscreen Tips & Shortcuts\nThe 15-inch central touchscreen is your control hub. Spend some time exploring the menus, but here are a few pro tips:\n- Quick App Switching: The bottom menu can be customized \u2013 press and hold an app icon (e.g. Energy, Dashcam, etc.) to drag it to your toolbar for one-tap access. If you have music open and want to switch sources (say from Spotify to radio), just tap the app\u2019s icon on screen to open a drop-down of other audio sources ￼.\n- Maps & Visualization: Tapping the navigation turn-by-turn info panel will show alternate routes if available ￼. You can also tap the new Maps icon (if added to your toolbar) to toggle between the map and the full driving visualization view ￼.\n- Voice Commands: Press and hold the right scroll wheel (or mic button) and speak a command (e.g. \u201cSet temperature to 70\u201d or \u201cNavigate to Starbucks\u201d). The system recognizes many natural commands for navigation, climate, music, and more.\n- Reset & Reboot: If the screen ever freezes (rare, but it can happen), you can reboot the infotainment by holding down both scroll wheels for about 10 seconds. This doesn\u2019t affect driving and is like restarting a computer.\n- Driving Controls: Use the left scroll wheel during driving to adjust cruise speed (scroll up/down) and following distance (scroll right/left) when Autopilot is engaged. Tapping the speedometer on screen will also set your cruise speed to the current speed limit or your current speed ￼ ￼.\n\nTesla\u2019s UI receives OTA (over-the-air) updates regularly \u2013 roughly every 4-6 weeks. Your car will notify you of new updates; you can install them via the app or while parked on Wi-Fi. Updates can bring interface changes, new features, or performance improvements. For example, recent updates have added things like Zoom video calling, new games, and improved climate controls. Keeping software up to date ensures you get the latest capabilities (and fun tricks!).\n\n### Toybox & Easter Eggs\nTesla famously includes Easter eggs \u2013 hidden features or modes \u2013 accessible via the \"Toybox\" menu (tap the rainbow icon on your touchscreen, or go to Entertainment > Toybox). Some favorites:\n- \u201cEmissions Testing Mode\u201d (Fart Mode): Makes fart sounds on demand or when you use the turn signal \u2013 guaranteed to entertain kids and passengers. (Toggle it in Toybox and select a seat.)\n- Santa Mode: Your Model Y can get festive. Activate Santa Mode by saying 'Ho ho ho' or tapping it in Toybox \u2013 your car avatar becomes Santa\u2019s sleigh with holiday music (the 2024 update even syncs ambient lights to red/green) ￼.\n- Light Show: All Model Y vehicles can perform a coordinated light and sound show. In Toybox, tap Light Show and follow prompts. Great for impressing friends \u2013 and you can even download custom light show sequences.\n- Arcade & Theater: Not exactly hidden, but worth noting \u2013 your Tesla has a full Arcade of video games and a Theater (Netflix, YouTube, etc.) under the Entertainment menu. These are best enjoyed while parked (for example, during charging stops).\n\nKeep an eye out during updates, as Tesla sometimes sneaks in new Easter eggs. In late 2023 and 2024, for instance, they added fun touches like customizable horn sounds and more toybox content. The Tesla community loves sharing discoveries of secret tricks, so engaging with forums or social media can clue you into the latest. Enjoy exploring \u2013 the software makes your Model Y feel continually fresh and fun!",
+    "resources": [
+    {
+    "type": "article",
+    "label": "Tesla Software Update 2024.20 Release Notes",
+    "source": "https://www.notateslaapp.com/software-updates/version/2024.20.3",
+    "why_useful": "Shows an example of Tesla\u2019s OTA update details, highlighting new features and changes."
+    },
+    {
+    "type": "article",
+    "label": "Complete List of Tesla Easter Eggs \u2013 NotATeslaApp",
+    "source": "https://www.notateslaapp.com/tesla-easter-eggs",
+    "why_useful": "Catalogs all known Easter eggs and how to activate them, from Fart Mode to the Light Show."
+    },
+    {
+    "type": "article",
+    "label": "Tesla Shortcuts and Tips (Updated 2024)",
+    "source": "https://www.notateslaapp.com/news/1349/ultimate-guide-to-tesla-shortcuts-and-tips",
+    "why_useful": "Provides a list of handy UI shortcuts and hidden tricks to make using the touchscreen and features easier."
+    }
+    ]
+    },
+    {
+    "title": "Autopilot, FSD & Safety Features",
+    "summary": "The Model Y Long Range comes standard with Tesla\u2019s Autopilot driver assistance, and you might have purchased the optional Full Self-Driving (FSD) package. It\u2019s important to understand what these features can and cannot do. Autopilot can steer, accelerate, and brake automatically within lanes, while FSD (beta) attempts more complex maneuvers under close supervision. Beyond these, your Model Y is equipped with many safety features (automatic emergency braking, collision warnings, etc.) to protect you. Here\u2019s how to use them responsibly.",
+    "details": "### Autopilot Basics\n\u201cAutopilot\u201d is Tesla\u2019s suite of lane centering and adaptive cruise control features included on all Model Y. When you\u2019re on a clear road, you can double-tap down on the right stalk to engage Autopilot. It will keep you centered in your lane and match speeds with traffic. However, you must keep your hands on the wheel and eyes on the road, ready to take over at any time. Autopilot is great for reducing fatigue on highways, but it is not autonomous driving.\n\nStandard Autopilot in Tesla is much like the standard active safety systems from other automakers. It will brake for cars ahead and keep you in lane, but it won\u2019t handle things like stop lights or traffic signs on city streets without FSD. The Model Y will alert you if it needs you to retake control (e.g. if lane markings fade or a situation is too complex). Always be prepared to respond.\n\n### Full Self-Driving (FSD) Capability\nIf you purchased FSD (or subscribe monthly), your car has additional features on top of Autopilot. This includes Navigate on Autopilot (the car can suggest and make highway lane changes and take exits based on your destination), Auto Lane Change on highways, Autopark (automatic parallel and perpendicular parking), Summon (slowly drives in parking lots to you), and Traffic Light and Stop Sign Control (Beta) which attempts to recognize and respond to traffic signals ￼. FSD is an evolving beta: currently it can handle many city street scenarios under driver supervision, but it\u2019s not 100% reliable. Think of it as an 'advanced driver assistance' – you are still the driver.\n\nTesla calls it 'Full Self-Driving' but you must treat it as a Level 2 system (hands-on, attentive). In fact, the software will nag and eventually disengage if it detects you aren’t holding the wheel. There are also camera-based driver monitoring to ensure you\u2019re looking at the road. Failure to pay attention can lead to Autopilot/FSD being temporarily disabled for your drive.\n\nAs of 2025, FSD Beta is widely available in North America, but still requires constant vigilance. Use it on city streets with extra caution, as it may not always choose the optimal lane or react perfectly to road events. Over time and with updates, the system should improve. Remember, you\u2019re responsible for the vehicle at all times – traffic tickets or accidents incurred under FSD are still on you.\n\n### Safety Features\nEvery Model Y includes a robust set of active safety systems. Forward Collision Warning will chime if a frontal crash is likely, and Automatic Emergency Braking will apply brakes to mitigate or avoid a collision if possible. The car also has Blind Spot Monitoring – when you signal, the side repeater camera feed can display on screen, and the car can warn if a vehicle is in your blind spot.\n\nOther standard aids include Lane Departure Avoidance, which can steer or tug the wheel if you drift out of your lane without signaling, and Emergency Lane Correction to avoid side collisions. The Model Y’s high seating and large glass area also give you great visibility, but always check your mirrors and surroundings as these features are backups.\n\nOn the passive safety side, the Model Y has a very strong structure and 5-star safety ratings. It’s equipped with multiple airbags and advanced sensors to detect and respond to crashes. Tesla’s focus on safety engineering, especially the low center of gravity from the battery, gives it excellent crash performance and rollover resistance.\n\n### Sentry Mode & Dashcam\nYour Model Y can protect itself even when parked. Sentry Mode uses the car’s exterior cameras as a security system. When enabled, it will record and (in some cases) alert you if someone is tampering with or approaching the car. You’ll get an alarm and notifications for serious incidents. The saved clips can be viewed on the touchscreen or retrieved from the USB drive.\n\nThe Dashcam feature is always recording while you drive (but not saving unless you tap the dashcam icon or honk, or if an accident/crash is detected). This can provide video evidence in case of an incident. New Tesla deliveries include a 128 GB USB drive pre-formatted for Dashcam/Sentry storage located in the glovebox ￼. Make sure it’s inserted and formatted (the car will notify you if no drive is available for recordings). You can review footage on the car’s screen or remove the drive to view on a computer.\n\nFinally, know that Tesla continues to improve safety via updates. Stay updated on software, and read release notes for any new safety or Autopilot improvements. Your Model Y will take good care of you as long as you remain an attentive driver.",
+    "resources": [
+    {
+    "type": "article",
+    "label": "2025 Model Y Autopilot vs FSD \u2013 Kelley Blue Book",
+    "source": "https://www.kbb.com/tesla/model-y/2025/",
+    "why_useful": "Describes the standard Autopilot functions and the capabilities of Full Self-Driving (beta) in the 2025 Model Y."
+    },
+    {
+    "type": "official_doc",
+    "label": "Tesla Owner\u2019s Manual \u2013 Autopilot and Safety",
+    "source": "https://www.tesla.com/ownersmanual/modely/en_us/GUID-0453399C-EA87-4A85-9E0C-32A5B4EEC907.html",
+    "why_useful": "Official details on how Autopilot works, its limitations, and an overview of all safety features in the Model Y."
+    },
+    {
+    "type": "article",
+    "label": "Dashcam & Sentry Mode Setup \u2013 Tesla Support",
+    "source": "https://www.tesla.com/support/dashcam-sentry-mode",
+    "why_useful": "Walks through how to use Dashcam and Sentry Mode, including how to view footage and what hardware is needed."
+    }
+    ]
+    },
+    {
+    "title": "Maintenance, Warranties & Service Scheduling",
+    "summary": "Teslas have far fewer moving parts than gasoline cars, so maintenance is relatively light. There are no oil changes, no timing belts, and regenerative braking means brake pads last a long time. However, some periodic maintenance is still needed (think tires, filters, etc.). We\u2019ll outline the key maintenance items and intervals. We\u2019ll also summarize your Model Y\u2019s warranty coverage and how to schedule service when you need it (mostly done through the Tesla app).",
+    "details": "### Routine Maintenance\nTesla does not require traditional 'annual service' visits – instead, maintenance is based on intervals and as-needed. Important items for the Model Y Long Range include:\n- Tire Rotation: Rotate tires roughly every 6,000–10,000 miles (or when tread wear is noticeably uneven). This helps the tires wear evenly. Many owners do this at ~ every 10k miles or during seasonal tire swaps.\n- Cabin Air Filter: Tesla recommends replacing the cabin air filter around every 2 years (or ~24,000 miles) to keep your HVAC system fresh ￼. The Model Y has two HEPA-grade filters (if equipped with Bioweapon Defense Mode) which Tesla can replace during service.\n- Brake Fluid Check: Test brake fluid for contamination every 2 years and replace if needed ￼. Because regenerative braking does most of the work, Tesla brakes don’t wear quickly, but the fluid can absorb moisture over time.\n- A/C Desiccant Bag: Replace every 3-6 years (Tesla recommends 4 years on average) to maintain the air conditioning efficiency. This moisture absorber keeps the A/C system dry internally.\n- Winter Care (if applicable): In cold/snowy regions, Tesla advises cleaning and lubricating the brake caliper slide pins annually or every 12,500 miles ￼. This prevents salt buildup from seizing the brakes (a simple service Tesla can perform).\n- Wiper Blades: Check and replace as needed (usually yearly) for optimal visibility.\n\nThere’s no engine oil, spark plugs, or emission checks to worry about – a big benefit of EV ownership! Just keep your tires inflated (the app will alert if pressure is low) and wash the car to protect the paint. The battery itself doesn’t require maintenance, aside from following good charging habits as mentioned earlier.\n\n### Warranty Coverage\nYour 2025 Model Y is backed by Tesla’s New Vehicle Limited Warranty: 4 years or 50,000 miles, whichever comes first, covering any manufacturing defects. Additionally, the Battery and Drive Unit are covered for 8 years or 120,000 miles (for Long Range variants) with a guarantee of at least 70% battery capacity remaining within that period ￼. This means if your battery were to degrade excessively or a motor fails, Tesla would repair or replace it under warranty. These warranties automatically transfer to a new owner if you sell the car within the coverage period.\n\nTesla also offers extended service plans in some regions. While there’s no traditional engine to worry about, some owners consider it for peace of mind on electronics and hardware after the standard warranty. Whether an extended warranty is worth it depends on your risk tolerance and how long you plan to keep the car.\n\n### Service and Repairs\nTesla operates service differently than traditional dealers. Most routine things (like filter changes or minor fixes) can be done via Tesla Mobile Service, where a technician comes to you. For anything major, you’ll visit a Tesla Service Center. To schedule service, use the Tesla app: choose your car, tap ‘Service’, and follow the prompts to select an issue or maintenance item. You can pick a date/time and location, and add notes or photos.\n\nBefore scheduling, Tesla may push over-the-air updates or run remote diagnostics if your car reports a fault. Sometimes issues can be fixed with a software update or reset. If you do go in for service, know that Tesla doesn’t require payment for warranty repairs (no deductible). You’ll get an estimate for any out-of-warranty work in the app to approve.\n\nWhen dropping off at a Service Center, you can use the app to check in, and often you’ll get status updates through the app. Tesla may provide a loaner vehicle or rideshare credits if your car needs to stay for an extended fix (availability varies).\n\nOne more thing: Tesla’s Roadside Assistance (included for 4 years/50k miles) is available via the app for emergencies like a flat tire or if you run out of charge. They can help tow you to a charger or repair facility if needed. Overall, maintenance for the Model Y is low-hassle – just keep an eye on tire tread and stay up to date on the few service items, and your Tesla will treat you well.",
+    "resources": [
+    {
+    "type": "official_doc",
+    "label": "Tesla Maintenance Schedule \u2013 Model Y",
+    "source": "https://www.tesla.com/support/maintenance",
+    "why_useful": "Lists Tesla\u2019s recommended maintenance items and intervals (filters, brake fluid, tire rotation, etc.) for the Model Y."
+    },
+    {
+    "type": "article",
+    "label": "2025 Tesla Model Y Warranty Details \u2013 Car and Driver",
+    "source": "https://www.caranddriver.com/tesla/model-y",
+    "why_useful": "Summarizes the standard warranty and battery/drive unit warranty for the 2025 Model Y."
+    },
+    {
+    "type": "article",
+    "label": "Tesla Service Experience and Tips \u2013 Electrek",
+    "source": "https://electrek.co/2024/05/10/tesla-service-experience-tips",
+    "why_useful": "Gives an overview of how Tesla handles service appointments and offers tips for new owners on scheduling and what to expect."
+    }
+    ]
+    },
+    {
+    "title": "Accessories Worth Buying (with Amazon/Tesla links)",
+    "summary": "A few well-chosen accessories can enhance your Model Y ownership. Some protect your car\u2019s interior, some add convenience, and others are just must-haves for everyday use. Here are several recommended accessories for a new Model Y Long Range AWD owner in the US. (We\u2019ve included links to Tesla\u2019s store or Amazon for each item.)",
+    "details": "Your Model Y is a big investment – accessories can help keep it in top shape and make daily life easier. Here are our top picks:\n\n- All-Weather Floor Mats – The Model Y comes with basic carpet mats. Upgrading to all-weather mats (Tesla’s official liners or a good third-party set) will protect your floors from mud, snow, and spills. They’re custom-fit for the Model Y and easy to clean (just take them out and hose them off) [■]. If you experience winter weather or have kids/pets, these are a no-brainer.\n- Screen Protector (15-inch) – The touchscreen is your command center; a tempered glass screen protector can prevent scratches and reduce fingerprints/glare. Look for a matte, anti-glare protector made for the new Model Y (15.4-inch) screen [■]. It installs easily with no bubbles and preserves touch sensitivity, all while cutting down on smudges.\n- Center Console Organizer – The Model Y’s center console has deep storage wells. An organizer tray [■] helps keep small items (sunglasses, keys, charging cables) sorted and accessible. Most have a two-tier design: you slide the tray and still have space underneath. This makes daily essentials easy to grab instead of rattling around.\n- Tesla Mobile Connector – If you plan to charge from regular outlets or need a portable charging option, consider the Mobile Connector kit [■]. Tesla doesn’t include this by default anymore ￼. It comes with adapters for a standard 120V household outlet and a 240V outlet (NEMA 14-50). It’s great for charging at relatives’ homes or as a backup. Keep it in the car for road trips, so you can plug in anywhere there’s electricity.\n- Tire Repair Kit & Inflator – Since Teslas (like most EVs) don’t have a spare tire, it’s wise to carry a tire repair/inflator kit. Tesla sells an official kit [■] that includes a small air compressor and sealant for punctures. This can get you back on the road quickly after a minor flat. Even if you have Tesla Roadside Assistance, having a pump handy is useful for adjusting tire pressures or emergencies.\n\nOther honorable mentions include mud flaps (to protect paint from rock chips), a sunshade for the glass roof (if you park in hot sun often), and door pocket organizers. But the five items above tend to be the most universally useful for new owners. They help maintain your Model Y’s condition and add convenience. Enjoy accessorizing!",
+    "resources": [
+    {
+    "type": "store",
+    "label": "Tesla Model Y All-Weather Interior Liners",
+    "source": "https://shop.tesla.com/product/model-y-all-weather-interior-liners",
+    "why_useful": "Durable floor mats that protect your car’s carpeting from water, mud, and wear."
+    },
+    {
+    "type": "product",
+    "label": "Spigen Matte Screen Protector for 2025 Model Y",
+    "source": "https://www.amazon.com/dp/B0CHV4WP2C",
+    "why_useful": "Shields the touchscreen from scratches and fingerprints while reducing glare."
+    },
+    {
+    "type": "product",
+    "label": "Model Y Center Console Organizer Tray",
+    "source": "https://www.amazon.com/dp/B092J88DQR",
+    "why_useful": "Keeps the deep center console storage tidy and your small items within reach."
+    },
+    {
+    "type": "store",
+    "label": "Tesla Mobile Connector Bundle",
+    "source": "https://shop.tesla.com/product/mobile-connector",
+    "why_useful": "Allows charging from standard outlets; a portable backup charger for travel."
+    },
+    {
+    "type": "store",
+    "label": "Tesla Tire Repair Kit (Compressor + Sealant)",
+    "source": "https://shop.tesla.com/product/tire-repair-kit",
+    "why_useful": "Helps quickly fix minor tire punctures and adjust tire pressure on the go."
+    }
+    ]
+    },
+    {
+    "title": "Must-Watch How-To Videos (top 3)",
+    "summary": "Sometimes seeing is better than reading. These three videos (all recent) do a fantastic job of walking new Tesla owners through important features and tips. They cover everything from basic operations and settings to common mistakes to avoid. Watching them will help you feel more confident and get the most out of your Model Y right away.",
+    "details": "To jump-start your Tesla knowledge, check out these highly recommended YouTube videos:\n\n1. The Ultimate Tesla Model Y/3 Owner’s Guide (2025) by Andy Slye [■] – A comprehensive 45-minute tutorial covering the car’s features, settings, and pro tips. Andy goes through the entire car (interior and exterior), showing how to use Autopilot, customize the touchscreen, save energy, and more in an easy-to-follow way.\n2. Tesla Setup Guide for 2025 Model 3 & Y – Best Settings by Jeremiah Jones [■] – Focuses on setting up your Model Y’s controls and preferences for the best experience. He walks through every menu, explaining which settings to enable or tweak (from regenerative braking feel to autopilot customization). Great for ensuring you haven’t missed useful options.\n3. 15 Mistakes New Tesla Owners Make (Actually 20+) by Jerry (Gerard) [■] – An entertaining yet very useful rundown of common pitfalls. This video highlights things like forgetting to adjust the charge limit, not using regenerative braking correctly, leaving Sentry Mode on in the garage, and other newbie mistakes. Learning these now will save you time and potential trouble later!\n\nThese videos are by experienced owners and were all published in 2024–2025, so they reflect the latest software and Model Y quirks. Watching them will give you a visual walkthrough and confidence in using your new car. Grab some popcorn and enjoy the tutorials! You’ll pick up lots of actionable tips (and probably discover features you didn’t know about).",
+    "resources": [
+    {
+    "type": "video",
+    "label": "Ultimate Model Y/3 Owner’s Guide 2025 – Andy Slye (YouTube)",
+    "source": "https://www.youtube.com/watch?v=XvNc0lEK35o",
+    "why_useful": "Covers all the basics and advanced tips for new Model Y owners in one video."
+    },
+    {
+    "type": "video",
+    "label": "Tesla Setup Guide 2025 (Best Settings) – Jeremiah Jones (YouTube)",
+    "source": "https://www.youtube.com/watch?v=Uv4wyTa1btY",
+    "why_useful": "Detailed walkthrough of every setting and customization for Model Y/3."
+    },
+    {
+    "type": "video",
+    "label": "15 Mistakes New Tesla Owners Make – Jerry (YouTube)",
+    "source": "https://www.youtube.com/watch?v=e5sNelmQDdY",
+    "why_useful": "Points out common errors and misunderstandings so you can avoid them."
+    }
+    ]
+    },
+    {
+    "title": "Communities & Continuing Learning",
+    "summary": "One of the best parts of Tesla ownership is the community. There are thousands of owners sharing tips, tricks, and support online and in local groups. Engaging with these communities can greatly enrich your experience. Additionally, your Model Y will receive software updates that introduce new features – staying informed about these will help you continually learn. Below are ways to connect with fellow owners and keep your knowledge up-to-date.",
+    "details": "### Owner Communities\nYou’re not alone in your Tesla journey! Whether you have questions, want to show off a new accessory, or need advice, the Tesla community is very active and welcoming. Here are some places to connect:\n- Tesla Motors Club (TMC) Forum: The largest online Tesla forum, with dedicated sections for the Model Y. You’ll find discussions on everything from firmware updates to DIY modifications. It’s a great place to search for answers or ask newbie questions (everyone was a new owner once) ￼.\n- Reddit (r/TeslaModelY and r/TeslaMotors): These subreddits have many Tesla owners and enthusiasts sharing real-world experiences, news, and memes. r/TeslaModelY is specific to your car, so it’s ideal for troubleshooting and hearing owner stories ￼. Reddit’s upvote system surfaces useful content, and you can search archives for topics like 'winter range loss' or 'best charging practices.'\n- Facebook & Local Clubs: Search Facebook for Tesla owner groups in your region (e.g. 'Tesla Owners Club California' or similar). Local clubs often organize meet-ups, road trips, and are invaluable for location-specific tips (like which service center is best or winter tire recommendations in your climate). As one owner put it, local Tesla Facebook groups can be 'incredibly helpful' for insights about your area ￼.\n- YouTube Channels & Blogs: Many owners run YouTube channels where they review updates or provide tutorials (you’ve seen a few in the section above). Channels like Andy Slye, Teslatips by Bjorn, or Tesla Raj, among others, regularly post content. Blogs like Not a Tesla App also provide detailed breakdowns of new features and software updates ￼. Following these can keep you in the loop on the latest tricks.\n\n### Continuing Education\nTesla will periodically send over-the-air software updates to your Model Y. It’s a good habit to read the release notes each time (the car will show them after an update, and you can always find them under Controls > Software > Release Notes). New updates might add features like improved visualization, new entertainment options, or efficiency improvements. Keeping up with these changes is part of the fun – your car can actually get better over time!\n\nFor deeper dives, Tesla’s official Owner’s Manual (accessible on the touchscreen or via Tesla’s website) is a wealth of information. You don’t have to read it cover-to-cover, but it’s great to reference when you’re unsure about something specific (like tow mode or how to clean the seats).\n\nFinally, don’t hesitate to ask questions in the community spaces above. Tesla owners love to help each other out – whether it’s explaining a feature or recommending a good charging station. The more you engage, the more you’ll learn little tips and hacks that might not be obvious at first. Enjoy the journey of continuous learning with your Model Y!",
+    "resources": [
+    {
+    "type": "forum",
+    "label": "Tesla Motors Club – Model Y Forum",
+    "source": "https://teslamotorsclub.com/tmc/forums/model-y.304/",
+    "why_useful": "Large owner community with extensive discussions, DIY guides, and Q&A for Model Y."
+    },
+    {
+    "type": "forum",
+    "label": "Reddit r/TeslaModelY Community",
+    "source": "https://www.reddit.com/r/TeslaModelY/",
+    "why_useful": "Active subreddit where owners share tips, updates, and real-world experiences specific to Model Y."
+    },
+    {
+    "type": "article",
+    "label": "Not a Tesla App – Latest Tesla Updates & News",
+    "source": "https://www.notateslaapp.com/news",
+    "why_useful": "Independent site that tracks software updates and new features, helping you stay informed about what’s new in your Tesla."
+    },
+    {
+    "type": "official_doc",
+    "label": "Tesla Support Video Guides",
+    "source": "https://www.tesla.com/support/videos",
+    "why_useful": "Official how-to videos from Tesla covering various features and functions of your vehicle."
+    }
+    ]
+    }
+    ]
