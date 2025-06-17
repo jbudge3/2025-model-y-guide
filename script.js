@@ -90,7 +90,7 @@ function renderGuideSections() {
     }
 
     return `
-      <section class="card" data-expanded="${isFirst}" data-title="${escapeHtml(section.title)}">
+      <section class="card" data-expanded="false" data-title="${escapeHtml(section.title)}">
         <h2>
           <button 
             id="section-${index}" 
