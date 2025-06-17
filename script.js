@@ -59,7 +59,6 @@ function renderGuideSections() {
   }
 
   guideSections.innerHTML = guideData.map((section, index) => {
-    const isFirst = index === 0;
     const expanded = 'false'; // All sections start closed
     const expandedClass = ''; // No expanded class by default
     
@@ -107,7 +106,7 @@ function renderGuideSections() {
           class="content" 
           role="region" 
           aria-labelledby="section-${index}"
-          ${isFirst ? '' : 'hidden'}
+          hidden
         >
           <p class="summary">${escapeHtml(section.summary)}</p>
           <div class="details">${detailsHtml}</div>
